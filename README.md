@@ -1,3 +1,5 @@
+## gh-Pages -> https://viktarprof.github.io/CV_John/
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
